@@ -1,0 +1,1 @@
+# table-printing-using-for-loop-and-while-loop-in-python
